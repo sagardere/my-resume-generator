@@ -40,6 +40,9 @@ p {
 #md-resume-leftcol {
   padding-right: 30px;
 }
+#md-resume-rightcol {
+  min-width: 33%;
+}
 ul {
   padding-left: 20px;
 }
