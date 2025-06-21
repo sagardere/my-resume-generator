@@ -10,10 +10,10 @@ article {
   display: flex;
 }
 header {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 #md-resume-header .d-flex-child {
-  width: 33.333%;
+  width: 40%;
   margin: 0 0 10px;
 }
 .md-website-link {
@@ -39,9 +39,6 @@ p {
 }
 #md-resume-leftcol {
   padding-right: 30px;
-}
-#md-resume-rightcol {
-  min-width: 33%;
 }
 ul {
   padding-left: 20px;

@@ -1,2 +1,0 @@
-In my current role as a Sr. Associate at Cognizant Technology Solutions,
-  I've led a team in successfully migrating a bank's internal portal to RedHat OpenShift Container Platform, showcasing my proficiency in microservices and cloud technologies. Agile methodologies were implemented, resulting in 
