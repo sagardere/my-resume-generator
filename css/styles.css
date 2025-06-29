@@ -22,6 +22,12 @@ header {
 .md-resume-section {
   margin-bottom: 30px;
 }
+.md-resume-section-heading {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* optional: adds space between icon and text */
+  white-space: nowrap;
+}
 h3, h5 {
   margin: 0;
 }
